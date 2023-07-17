@@ -78,8 +78,7 @@ tvg_ids_logos = {'GOL MUNDIAL HD': 'https://i.postimg.cc/3ryZ9n8G/golmundial.png
                  #TENNIS CHANNEL
                  'I217.33395.zap2it.com': 'https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg',
                  'SETANTA': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU',
-                 'OTROS': 'https://i.imgur.com/U4w7Bgy.png'}
-
+                 'OTROS': 'https://telegra.ph/file/fba058a81f4038f75c076.jpg'}
 
 group_title_order = ["DAZN F1", "GOL MUNDIAL", "GOL MUNDIAL 2", "manuK0S", "M+ LaLiga", "DAZN LaLiga", "M+ Champions", "DAZN", "M+ Deportes", "M+ LaLiga BAR", "M+ LaLiga Smartbank", "EuroSport", "Otros deportes", "electroperra", "Otros"]
 
