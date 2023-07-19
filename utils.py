@@ -5,11 +5,11 @@ tvg_ids_logos = {'GOL MUNDIAL HD': 'https://i.postimg.cc/3ryZ9n8G/golmundial.png
                  'DAZN 3 HD': 'https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png',
                  'DAZN 4 HD': 'https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png',
                  'DAZN F1 HD': 'https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5',
-                 'DAZN LaLiga HD': 'https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg',
-                 'DAZN LaLiga 2 HD': 'https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg',
-                 'DAZN LaLiga 3 HD': 'https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg',
-                 'DAZN LaLiga 4 HD': 'https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg',
-                 'DAZN LaLiga 5 HD': 'https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg',
+                 'DAZN LaLiga HD': 'https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg',
+                 'DAZN LaLiga 2 HD': 'https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg',
+                 'DAZN LaLiga 3 HD': 'https://telegra.ph/file/6ede7767f85ffeecc9901.jpg',
+                 'DAZN LaLiga 4 HD': 'https://telegra.ph/file/42064e09047a580ce96ec.jpg',
+                 'DAZN LaLiga 5 HD': 'https://telegra.ph/file/624c6d029f44ad117a801.jpg',
                  'Eurosport 1 HD': 'https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg',
                  'Eurosport 2': 'https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg',
                  'M+ #Vamos HD': 'https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png',
@@ -21,22 +21,23 @@ tvg_ids_logos = {'GOL MUNDIAL HD': 'https://i.postimg.cc/3ryZ9n8G/golmundial.png
                  'M+ Deportes 6': 'https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png',
                  'M+ Deportes 7': 'https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png',
                  'M+ Golf HD': 'https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png',
-                 'Golf Channel': 'https://telegra.ph/file/13e3b23de6970d4d85bc5.png',
+                 # GOLF CHANNEL
+                 'i640.101736.schedulesdirect.org': 'https://telegra.ph/file/13e3b23de6970d4d85bc5.png',
                  'M+ LaLiga TV HD': 'https://telegra.ph/file/87a4c3d008b086629d093.jpg',
                  'M+ LaLiga TV 2 HD': 'https://telegra.ph/file/5c77da09724e53af96832.jpg',
                  'M+ LaLiga TV 3 HD': 'https://telegra.ph/file/968c9d7eb40340bae2eab.jpg',
                  'M+ LaLiga TV 4': 'https://telegra.ph/file/9706db24e007948767d6e.jpg',
                  'M+ LaLiga TV 5': 'https://telegra.ph/file/597c0cdd125c9199ed9da.jpg',
                  'M+ LaLiga TV 6': 'https://telegra.ph/file/6726d0894872da50d69d8.jpg',
-                 'LaLiga TV Hypermotion HD': 'https://i.postimg.cc/CKxJXggY/ligasmartbank.png',
-                 'LaLiga TV Hypermotion 3 HD': 'https://i.postimg.cc/4NfkryTV/ligasmartbank3.png',
-                 'LaLiga TV Hypermotion 2 HD': 'https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png',
-                 'LaLiga TV Hypermotion 4': 'https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png',
-                 'LaLiga TV Hypermotion 5': 'https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png',
-                 'LaLiga TV Hypermotion 6': 'https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png',
-                 'LaLiga TV Hypermotion 7': 'https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png',
-                 'LaLiga TV Hypermotion 8': 'https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png',
-                 'LaLiga TV BAR HD': 'https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg',
+                 'LaLiga TV Hypermotion HD': 'https://telegra.ph/file/b59e93c8d1d751deb72aa.jpg',
+                 'LaLiga TV Hypermotion 2 HD': 'https://telegra.ph/file/7431c20a1684dd79bca18.jpg',
+                 'LaLiga TV Hypermotion 3 HD': 'https://telegra.ph/file/0fa86d461144e95473650.jpg',
+                 'LaLiga TV Hypermotion 4': 'https://telegra.ph/file/c08926d02912610b761f3.jpg',
+                 'LaLiga TV Hypermotion 5': 'https://telegra.ph/file/99ff7636249cc9bbb571c.jpg',
+                 'LaLiga TV Hypermotion 6': 'https://telegra.ph/file/118c474d14a90afb8cf93.jpg',
+                 'LaLiga TV Hypermotion 7': 'https://telegra.ph/file/f0b33dd7f388f97420e64.jpg',
+                 'LaLiga TV Hypermotion 8': 'https://telegra.ph/file/8e26023b62fc2d437c4cd.jpg',
+                 'LaLiga TV BAR HD': 'https://telegra.ph/file/adfc38adaae35d271a557.jpg',
                  'M+ Liga de Campeones HD': 'https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png',
                  'M+ Liga de Campeones 2 HD': 'https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png',
                  'M+ Liga de Campeones 3 HD': 'https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png',
@@ -64,7 +65,7 @@ tvg_ids_logos = {'GOL MUNDIAL HD': 'https://i.postimg.cc/3ryZ9n8G/golmundial.png
                  'Sport TV3 POR HD': 'https://img2.sport-tv-guide.live/images/stations/a452.png',
                  #beIN ñ
                  'I873.76943.schedulesdirect.org': 'https://i.imgur.com/XcjYBfj.png',
-                 'M+ Ellas #V HD': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqKK0A9bLjjrmoL23GSawBsgag9Q63grvjKwmRoKfHseFfXcmzHs8JCUlWJ-yyDLWnTw&usqp=CAU',
+                 'M+ Ellas #V HD': 'https://telegra.ph/file/cb8fa061574713cffd013.png',
                  #ESPN COLOMBIA
                  'I896.110964.schedulesdirect.org': 'https://telegra.ph/file/1c26a0d324322f91a369e.jpg',
                  #ESPN2 COLOMBIA
@@ -79,8 +80,12 @@ tvg_ids_logos = {'GOL MUNDIAL HD': 'https://i.postimg.cc/3ryZ9n8G/golmundial.png
                  'I217.33395.zap2it.com': 'https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg',
                  'SETANTA': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU',
                  'OTROS': 'https://telegra.ph/file/fba058a81f4038f75c076.jpg'}
+                 #'OTROS': 'https://i.imgur.com/U4w7Bgy.png'}
 
-group_title_order = ["DAZN F1", "GOL MUNDIAL", "GOL MUNDIAL 2", "manuK0S", "M+ LaLiga", "DAZN LaLiga", "M+ Champions", "DAZN", "M+ Deportes", "M+ LaLiga BAR", "M+ LaLiga Smartbank", "EuroSport", "Otros deportes", "electroperra", "Otros"]
+
+
+
+group_title_order = ["DAZN F1", "GOL MUNDIAL", "GOL MUNDIAL 2", "manuK0S", "M+ LaLiga", "DAZN LaLiga", "M+ Champions", "DAZN", "M+ Deportes", "M+ LaLiga BAR", "M+ LaLiga Hypermotion", "EuroSport", "Otros deportes", "electroperra", "Otros"]
 
 
 def extract_group_title(channel_title):
@@ -99,11 +104,14 @@ def extract_group_title(channel_title):
     #elif "EUROSPORT" in title:
         #return "EuroSport"
     elif "DEPORTES" in title or "VAMOS" in title or "GOLF" in title or "ELLAS" in title:
-        return "M+ Deportes"
-    elif "LIGA" in title and "BAR" not in title and "DAZN" not in title and "SMARTBANK" not in title and "CAMPEONES" not in title:
+        if "CHANNEL" not in title:
+            return "M+ Deportes"
+        else:
+            return "Otros deportes"
+    elif "LIGA" in title and "BAR" not in title and "DAZN" not in title and "SMARTBANK" not in title and "CAMPEONES" not in title and "HYPERMOTION" not in title:
         return "M+ LaLiga"
-    elif "SMARTBANK" in title or "SMARTBANCK" in title:
-        return "M+ LaLiga Smartbank"
+    elif "SMARTBANK" in title or "SMARTBANCK" in title or "HYPERMOTION" in title:
+        return "M+ LaLiga Hypermotion"
     elif "TV BAR" in title:
         return "M+ LaLiga BAR"
     elif "CAMPEONES" in title:
@@ -168,7 +176,7 @@ def extract_tvg_id(channel_title):
         return "La 1 HD"
     elif "BAR" in title and "BARÇA" not in title:
         return 'LaLiga TV BAR HD'
-    elif "SMARTBANK" in title:
+    elif "HYPERMOTION" in title:
         if "2" in title:
             return "LaLiga TV Hypermotion 2 HD"
         elif "3" in title:
@@ -191,10 +199,10 @@ def extract_tvg_id(channel_title):
         return 'M+ #Vamos HD'
     elif "GOLF" in title:
         if "CHANNEL" in title:
-            return "Golf Channel"
+            return "i640.101736.schedulesdirect.org"
         else:
             return 'M+ Golf HD'
-    elif "LIGA" in title and "BAR" not in title and "DAZN" not in title and "SMARTBANK" not in title and "CAMPEONES" not in title:
+    elif "LIGA" in title and "BAR" not in title and "DAZN" not in title and "SMARTBANK" not in title and "CAMPEONES" not in title and "HYPERMOTION" not in title:
         if "2" in title:
             return "M+ LaLiga TV 2 HD"
         elif "3" in title:
