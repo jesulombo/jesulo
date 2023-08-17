@@ -109,7 +109,7 @@ plugin://script.module.horus?action=play&id=8587ed8ac36ac477e1d4176d3159a38bd154
 plugin://script.module.horus?action=play&id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M. Golf 1080  4f94
 plugin://script.module.horus?action=play&id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="Golf Channel" tvg-logo="https://telegra.ph/file/13e3b23de6970d4d85bc5.png" ,Golf Channel 720  9a4f
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M. Golf2 1080  9a4f
 plugin://script.module.horus?action=play&id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 #EXTINF:-1 group-title="M+ LaLiga BAR" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" ,LaLiga TV Bar 1080  aa82
 plugin://script.module.horus?action=play&id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
