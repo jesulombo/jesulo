@@ -163,8 +163,6 @@ plugin://script.module.horus?action=play&id=52c8ff01836c294caad8b8c029b53360aa16
 plugin://script.module.horus?action=play&id=d6d5775a2965b15ee405278b6a2e5a4374a80e25
 #EXTINF:-1 group-title="Otros deportes" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 4  5a8d
 plugin://script.module.horus?action=play&id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
-#EXTINF:-1 group-title="Otros deportes" tvg-id="SETANTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" ,SETANTA SPORTS 1080  7206
-plugin://script.module.horus?action=play&id=72066549fbfd3f755853fe9467586b7debf01f60
 #EXTINF:-1 group-title="electroperra" tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" ,Historia
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild
@@ -185,5 +183,3 @@ plugin://script.module.horus?action=play&id=e8eec35f4662be1af96963245bfa88fb7d02
 plugin://script.module.horus?action=play&id=5c267a00f264736c1d47c1cc3e754447ca8f770c
 #EXTINF:-1 group-title="Otros" tvg-id="Telecinco HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a907.png" ,Telecinco 1080  bb19
 plugin://script.module.horus?action=play&id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
-#EXTINF:-1 group-title="Otros" tvg-id="M+ #0 HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" ,#0 M+ HD 1080  864f
-plugin://script.module.horus?action=play&id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
