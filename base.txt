@@ -45,6 +45,12 @@ acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 5 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,DAZN LaLiga 5 1080 MultiAudio  99e5
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga F 1  d6cd
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  4af5
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  1629
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  931b
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 1080 MultiAudio  0457
@@ -155,16 +161,6 @@ acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 acestream://41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Barcelona TV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" ,Barça 720  e336
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 1  7838
-acestream://78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 2  4af5
-acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 3  52c8
-acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 3  d6d5
-acestream://d6d5775a2965b15ee405278b6a2e5a4374a80e25
-#EXTINF:-1 group-title="Otros deportes" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial 4  5a8d
-acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1 group-title="electroperra" tvg-id="HISTORIA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" ,Historia
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:C3:AF:36&stream=55609&extension=ts&play_token=ltn2GgE1z6
 #EXTINF:-1 group-title="electroperra" tvg-id="NAT GEO WILD HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" ,Nat Geo Wild
