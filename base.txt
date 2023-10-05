@@ -79,8 +79,8 @@ acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 7 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M.L. Campeones 7 1080  5932
 acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
-#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M.L. Campeones 8 1080  1a4b
-acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 8 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M.L. Campeones 8 1080  6c44
+acestream://6c445141445b06d7b4328d80e2dd936bd0ca52ca
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 9 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 9 SD  7244
 acestream://7244379f8f6382d40afec871fb8e4219a803840b
 #EXTINF:-1 group-title="M+ Champions" tvg-id="M+ Liga de Campeones 10 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M.L. Campeones 10 SD  d42e
