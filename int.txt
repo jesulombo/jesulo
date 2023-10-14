@@ -49,8 +49,8 @@ http://192.168.1.90:8008/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a697
 http://192.168.1.90:8008/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga F 1  6002
 http://192.168.1.90:8008/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  4af5
-http://192.168.1.90:8008/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 2  d6cd
+http://192.168.1.90:8008/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 3 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 3  1629
 http://192.168.1.90:8008/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 4 HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" ,Dazn liga f 4  e454
