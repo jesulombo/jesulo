@@ -187,6 +187,10 @@ http://192.168.1.90:8008/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d422
 http://192.168.1.90:8008/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SuperCopa 1080  8ba7
 http://192.168.1.90:8008/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SuperCopa 1080  3a4c
+http://192.168.1.90:8008/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1 group-title="Otros" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,SuperCopa 720  dab7
+http://192.168.1.90:8008/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1 group-title="Otros" tvg-id="Cuatro HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080  e8ee
 http://192.168.1.90:8008/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF:-1 group-title="Otros" tvg-id="Be Mad" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-be-mad-621.png" ,BeMad 1080  5c26
