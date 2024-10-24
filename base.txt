@@ -127,8 +127,8 @@ acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" ,LaLiga Smartbank 2 720  2709
 acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
-#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,LaLiga Smartbank 3  bd2f
-acestream://bd2f7970c17f427ae92867e2eb86696dd7900a3e
+#EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,LaLiga Smartbank 3  2019
+acestream://20196007a6697a1f11589fd4c8bab6713c265e64
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" ,LaLiga Smartbank 4  ef3a
 acestream://ef3a9359800bba51018fe00ac84afb8e79a7bbf2
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://i.postimg.cc/9FL5V2WS/ligasmartbank2.png" ,LaLiga Smartbank 5  7a6f
